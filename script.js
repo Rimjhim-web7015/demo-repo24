@@ -1,1 +1,3 @@
-console.log("h2");
+function showMessage() {
+  alert("Thank you for visiting my profile! 😊");
+}
